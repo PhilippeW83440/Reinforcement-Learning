@@ -1,6 +1,3 @@
-# Reinforcement-Learning
-
-
 
 ## Microsoft Airsim Simulator & CNTK framework
 
@@ -11,7 +8,10 @@ CNTK presentation for people already familiar with other DL frameworks:
 
 CNTK RL:  
 * https://github.com/Microsoft/CNTK/blob/master/Tutorials/CNTK_203_Reinforcement_Learning_Basics.ipynb  
-* https://www.edx.org/course/reinforcement-learning-explained
+* https://www.edx.org/course/reinforcement-learning-explained  
+* https://tsmatz.wordpress.com/2018/01/25/cntk_distributed_training_with_multiple_machines/  
+* https://docs.microsoft.com/en-us/cognitive-toolkit/multiple-gpus-and-machines  
+* https://www.rand.org/pubs/research_reports/RR1478.html  
 
 Airsim:  
 * https://github.com/Microsoft/AirSim  
